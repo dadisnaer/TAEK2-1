@@ -18,3 +18,6 @@
 
 # 7.
 ### Closed ended, er þegar þú getur svarað bara "Já" eða "Nei" en open ended þarftu að svara meira heldur en bara einu orði.
+
+# 8.
+### Jaðartækin sjá um samskiptin milli þín og tölvunnar
