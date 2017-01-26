@@ -6,3 +6,6 @@
 
 # 3.
 ### Fyrirbyggjandi viðhald er viðhald sem er reglulega flytur stykki af útbúnaði til að draga úr líkum á mishöppum
+
+# 4.
+### 'Electrostatic discharge' er skyndilegt flæði raforku á milli rafhlaðinna hluti af völdum snertingum
