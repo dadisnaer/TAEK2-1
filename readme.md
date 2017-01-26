@@ -15,3 +15,6 @@
 
 # 6.
 ### tjekka ef það er ekkert merki um búnaðar skemmdir, athuga hvort að BIOS rafhlaðan veitir nægilega spennu, þrífa ryk ú vélinni, með notkun multimeter, tjekka volt móðurborðsins, fjarlæga og endurnýja ónýtan búnað,
+
+# 7.
+### Closed ended, er þegar þú getur svarað bara "Já" eða "Nei" en open ended þarftu að svara meira heldur en bara einu orði.
