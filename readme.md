@@ -24,3 +24,13 @@
 
 # 9.
 ### lyklaborð, tölvumús og kanski míkrafónn.
+
+# 10.
+### Örgjörvi: Intel i5 7600k 3.8 ~ 4.2 GHz / 38.900kr
+### minni 16 GB (2x8 GB) 2400 MHz / 14.750kr
+### skjákort: Geforce GTX 1070 8 GB / 66.900kr
+### Harði diskur: 500 GB Samsung 850 EVO / 26.950kr
+### Móðurborð: Gigabyte GA-Z170N-Gaming 5 / 24.990kr
+### Aflgjafi: Aerocool KCAS 800W / 14.500kr
+### Kassi: EZ-cool N2-800D / 13.491kr
+### = 200.481kr
