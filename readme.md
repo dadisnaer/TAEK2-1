@@ -12,3 +12,6 @@
 
 # 5.
 ### hversu mikinn straum er nothæfur og hvernig straum hann tekur inn
+
+# 6.
+### tjekka ef það er ekkert merki um búnaðar skemmdir, athuga hvort að BIOS rafhlaðan veitir nægilega spennu, þrífa ryk ú vélinni, með notkun multimeter, tjekka volt móðurborðsins, fjarlæga og endurnýja ónýtan búnað,
