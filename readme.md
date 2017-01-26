@@ -21,3 +21,6 @@
 
 # 8.
 ### Jaðartækin sjá um samskiptin milli þín og tölvunnar
+
+# 9.
+### lyklaborð, tölvumús og kanski míkrafónn.
