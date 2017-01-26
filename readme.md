@@ -3,3 +3,6 @@
 
 # 2.
 ### ROM stendur fyrir 'Read-only memory' þetta er týpa af ósveiflukenndri geymslu notuð í tölvum of öðrum raftækjum
+
+# 3.
+### Fyrirbyggjandi viðhald er viðhald sem er reglulega flytur stykki af útbúnaði til að draga úr líkum á mishöppum
