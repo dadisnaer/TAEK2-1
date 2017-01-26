@@ -9,3 +9,6 @@
 
 # 4.
 ### 'Electrostatic discharge' er skyndilegt flæði raforku á milli rafhlaðinna hluti af völdum snertingum
+
+# 5.
+### hversu mikinn straum er nothæfur og hvernig straum hann tekur inn
